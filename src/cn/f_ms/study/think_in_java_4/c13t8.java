@@ -1,6 +1,6 @@
 package cn.f_ms.study.think_in_java_4;
 
-class c13t6 {
+class c13t8 {
 
     public static String knights = "Then, when you have found the shrubbery," +
             " you must cut down the mightiest tree in the forest... with... a herring!";

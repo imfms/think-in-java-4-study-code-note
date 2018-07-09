@@ -2,7 +2,7 @@ package cn.f_ms.study.think_in_java_4;
 
 import java.util.regex.Pattern;
 
-class c13t5 {
+class c13t7 {
 
     private static final Pattern BEGIN_UPPER_END_DOT_REGEX = Pattern.compile("[A-Z].+\\.");
 
