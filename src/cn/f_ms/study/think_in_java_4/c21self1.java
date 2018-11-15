@@ -15,8 +15,9 @@ class c21self1 {
 
         public void status() {
             System.out.println(String.format(
-                    "#%s:(%s)",
+                    "#%s:%s:(%s)",
                     id,
+                    Thread.currentThread().getName(),
                     countDown > 0 ? countDown : "LightOff"
             ));
         }
